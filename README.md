@@ -248,4 +248,6 @@ streamlit run app.py
 ---
 
 制作：2026年9月17日〜9月19日（開発は Cursor 上の Claude Code と対話しながら進めました）
+
 Copyright © 2026 dragon24dragon. All rights reserved.
+
